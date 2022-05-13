@@ -3,30 +3,51 @@
   <img align="right" height="150" src="https://media.giphy.com/media/vvcvtGPa4hSiN4TgeY/giphy.gif"/>
 <img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
 
+
 Olá, meu nome é Gabriel! 👩‍💻
 
-📚Estudante de desenvolvimento web 
+📚 Estudante de desenvolvimento web 
 <br>
-🏠São Paulo - SP 
+🏠 São Paulo BR 
 <br>
-👨18 anos de idade
+👨 18 anos de idade
 <br>
-🎓Técnico em Desenvolvimento de Sistemas
+🎓 Técnico em Desenvolvimento de Sistemas
 <br>
-
-<p align="center">
-<img height="35em" src="https://github.com/CR10L02k/imagens/blob/main/icons/html5/html5-original.svg"/>
-<img height="35em" src="https://github.com/CR10L02k/imagens/blob/main/icons/css3/css3-original.svg"/>
-<img height="35em" src="https://github.com/CR10L02k/imagens/blob/main/icons/javascript/javascript-original.svg"/>
-  <img height="36em" src="https://github.com/CR10L02k/imagens/blob/main/icons/java/java-original.svg"/>
-
-</p>
+<br>
+<br>
+<hr/>
+ 
 
 <div align="center">
-<h2 align="center">Conecte-me <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="20"></h2>
+  <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="20px">
 
-<a href="https://www.facebook.com/jailson.costadossantos" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/gabriel-sobrinho-b9b688229" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<div align="center">
+<a href="https://www.linkedin.com/in/gabrielssobrinho/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
 </div>
+  </div>
 
 
+<br>
+<div align="center">
+<a href="https://github.com/gabrielssobrinho">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=gabrielssobrinho&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielssobrinho&layout=compact&langs_count=7&theme=gotham"/></a>
+</div>
+  <br>
+  <div align="center" >
+      <img src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
+      <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+      <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+      <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+      <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+      <img src="https://img.icons8.com/color/48/000000/git.png"/>
+      <img src="https://img.icons8.com/ultraviolet/45/000000/react--v1.png"/>
+      <img src="https://img.icons8.com/color/000000/java-coffee-cup-logo--v1.png"/>
+      <img src="https://img.icons8.com/color/000000/postgreesql.png"/>
+      <img src="https://img.icons8.com/color/000000/mysql-logo.png"/>
+  
+  </div>
+  
+  
