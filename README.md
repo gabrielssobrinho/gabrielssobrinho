@@ -1,13 +1,13 @@
 <div align="left">
-  <h1>Olá, meu nome é Gabriel! Bora codar? </h1>
+  <h1>Olá, vamos codar! </h1>
   <img align="right" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
 <br>
   <br>
-🏠 São Paulo - Brasil.
+👋🏾 Sou o Gabriel dos Santos Sobrinho.
 <br>
-📚 Estudante de Desenvolvimento Web.
+📚 Estou em busca de se tornar um bom desenvolvedor.
 <br>
-🎓 Técnico em Desenvolvimento de Sistemas.
+👨🏾‍💻 Visite meu portfólio: https://gabrielssobrinho.vercel.app.
   <br>
   <br>
   <br>
