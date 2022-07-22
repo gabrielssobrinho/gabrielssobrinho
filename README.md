@@ -7,6 +7,8 @@
 <br>
 📚 Estou em busca de se tornar um bom desenvolvedor.
 <br>
+🤯 Gosto de ser desafiado.
+<br>
 👨🏾‍💻 Visite meu portfólio: https://gabrielssobrinho.vercel.app.
   <br>
   <br>
@@ -41,6 +43,9 @@
       <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
       <img src="https://img.icons8.com/ultraviolet/45/000000/react--v1.png"/>
       <img src="https://img.icons8.com/color/000000/java-coffee-cup-logo--v1.png"/>
+      &nbsp;
+      <img height="35em" src="https://github.com/CR10L02k/imagens/blob/main/icons/spring/spring-original.svg"/>
+      &nbsp;
       <img src="https://img.icons8.com/color/000000/mysql-logo.png"/>
   
   </div>
