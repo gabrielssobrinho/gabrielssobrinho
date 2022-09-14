@@ -8,8 +8,6 @@
 📚 Estou em busca de se tornar um bom desenvolvedor.
 <br>
 🤯 Gosto de ser desafiado.
-<br>
-👨🏾‍💻 Visite meu portfólio: https://gabrielssobrinho.vercel.app.
   <br>
   <br>
   <br>
